@@ -138,7 +138,7 @@ Create a `screenshots/` folder and add the following images.
 ![Data Quality Report](screenshots/data_quality_report.png)
 
 ### 🔹 Clean Dataset Preview
-![Clean Dataset Preview](screenshots/clean_dataset_preview.png)
+![Clean Dataset Preview](Screenshots/clean_dataset_preview.JPG)
 
 ---
 
